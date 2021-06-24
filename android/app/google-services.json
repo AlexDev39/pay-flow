@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044842248160",
+    "project_id": "pay-flow-aula03",
+    "storage_bucket": "pay-flow-aula03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044842248160:android:5f84754d88048317841d85",
+        "android_client_info": {
+          "package_name": "com.example.palflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044842248160-5ct8ski57apv03m8vs36vk38nknoqaef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.palflow",
+            "certificate_hash": "dce14805846d04a9ced05bb70c7de47775de1edd"
+          }
+        },
+        {
+          "client_id": "1044842248160-t8dg7krp6qhg68eupdahnvfm7qoojle1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDog84lRsbuhTYMbJA0tyvQWY-9T4XTiiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044842248160-t8dg7krp6qhg68eupdahnvfm7qoojle1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
